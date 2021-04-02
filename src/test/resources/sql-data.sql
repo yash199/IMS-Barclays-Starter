@@ -1,0 +1,2 @@
+--Dummy-data file for the testing database.
+--This should be picked up by the embedded H2 when running your tests.
